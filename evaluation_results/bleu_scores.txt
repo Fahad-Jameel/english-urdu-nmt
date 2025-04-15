@@ -1,0 +1,11 @@
+Corpus-level BLEU Scores:
+BLEU-1: 0.4482
+BLEU-2: 0.3247
+BLEU-3: 0.2538
+BLEU-4: 0.1996
+
+Average Sentence-level BLEU Scores:
+BLEU-1: 0.4273
+BLEU-2: 0.2566
+BLEU-3: 0.1491
+BLEU-4: 0.0788
